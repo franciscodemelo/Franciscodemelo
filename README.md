@@ -1,6 +1,4 @@
 ### Olá! Eu sou o Francisco!
-- 🌱 Estudando java
-- 😄 Pronouns:ele/dele
 
  <div>
  <p align="left">
